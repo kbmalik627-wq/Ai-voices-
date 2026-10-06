@@ -1,0 +1,6 @@
+{
+  "name": "App dozine - AI Voice Changer Studio",
+  "description": "Professional AI Voice Studio and Voice Changer with 8 human-like voices, microphone changer, audio FX rack, soundscapes, and WAV export.",
+  "requestFramePermissions": ["CAMERA", "MICROPHONE"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
